@@ -23,4 +23,17 @@ Freecodecamp.org has a number of free coding tutorials we'll be using to practic
 
 ## Completing a tutorial
 
+1. From the [Freecodecamp Learn page](https://www.freecodecamp.org/learn), click the tutorial you want to start with.
+![Freecodecamp tutorial link](images/fcc-tutorial-link.png)
+2. Read the left panel to learn about the new concept. The instructions for how to complete the the challenge will be towards the bottom.
+3. Type your code solution in the center panel.
+4. Once finished, click 'Run the Tests'. If your code is correct, you can move onto the next challenge.
+![Freecodecamp run the test](images/fcc-run-the-tests.png)
+
+### Freecodecamp tips and strategies
+
+* Freecodecamp isn't perfect! Sometimes it has bugs. If you are pretty sure your code is correct, but Freecodecamp keeps saying there's an error, don't spend too long trying to fix it. Take a screenshot of your code and email it to me with a question, then move onto the next challenge.
+* If you're totally suck on a challenge, move onto the next one. Once you've attempted all the assigned tutorials, go back to the beginning and retry the ones you skipped; the answer might just come to you the second time!
+* If you're still stuck on some tutorials, take a break and come back later.
+
 
