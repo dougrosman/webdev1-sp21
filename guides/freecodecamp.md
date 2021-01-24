@@ -2,8 +2,9 @@
   img { display: block; max-width: 400px; margin: 20px auto; }
 </style>
 
-<a href="..">Home</a>
+<a href="..">Home</a><br>
 <a href="guides">Back to Guides</a>
+
 ##### Webdev1 SP21
 
 
@@ -13,7 +14,7 @@ Freecodecamp.org has a number of free coding tutorials we'll be using to practic
 ## Creating an account
 1. Go to freecodecamp.org
 2. Click 'Sign In' in the top right
-3. Click 'Continue with GitHub'. (If you don't have a GitHub account, follow the GitHub setup guide [here](github.md)
+3. Click 'Continue with GitHub'. (If you don't have a GitHub account, follow the GitHub setup guide [here](github.md)).
 4. Click the 'Profile' button in the top right.
 5. Click [Update my Account Settings](https://www.freecodecamp.org/settings)
 6. Set your username to your preferred name and last name. For example, my name is **Doug Rosman**, my user name is **dougrosman**.
