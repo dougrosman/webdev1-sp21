@@ -1,3 +1,7 @@
+<style>
+  img { display: block; max-width: 400px; margin: 20px auto; }
+</style>
+
 <a href="..">Home</a>
 <a href="guides">Back to Guides</a>
 ##### Webdev1 SP21
@@ -18,7 +22,8 @@ Freecodecamp.org has a number of free coding tutorials we'll be using to practic
 8. Scroll down, and set the following items to 'public' (profile, certifcations, portfolio and timeline)
 ![Freecodecamp privacy settings](images/fcc-privacy.png)
 9. You can find the link to your profile here:
-![Freecodecamp profile link](images/fcc-profile.png). **Your profile should look like this: https://freecodecamp.org/dougrosman. That is the link you will submit to Canvas so I can see your progress.**
+![Freecodecamp profile link](images/fcc-profile.png)
+**Your profile should look like this: https://freecodecamp.org/dougrosman. That is the link you will submit to Canvas so I can see your progress.**
 
 
 ## Completing a tutorial
