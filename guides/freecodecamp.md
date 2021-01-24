@@ -5,15 +5,14 @@
 <a href="..">Home</a><br>
 <a href="guides">Back to Guides</a>
 
-##### Webdev1 SP21
+# Freecodecamp
+Freecodecamp.org has a number of free coding tutorials we'll be using to practice our coding. This guide shows how to create an account, complete tutorials, and submit your progress to Canvas
+
 - [Freecodecamp](#freecodecamp)
   - [Creating an account](#creating-an-account)
   - [Completing a tutorial](#completing-a-tutorial)
     - [Freecodecamp tips and strategies](#freecodecamp-tips-and-strategies)
   - [Submitting a Freecodecamp assignment](#submitting-a-freecodecamp-assignment)
-
-# Freecodecamp
-Freecodecamp.org has a number of free coding tutorials we'll be using to practice our coding. This guide shows how to create an account, complete tutorials, and submit your progress to Canvas
 
 ## Creating an account
 1. Go to freecodecamp.org
