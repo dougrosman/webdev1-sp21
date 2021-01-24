@@ -6,7 +6,11 @@
 <a href="guides">Back to Guides</a>
 
 ##### Webdev1 SP21
-
+- [Freecodecamp](#freecodecamp)
+  - [Creating an account](#creating-an-account)
+  - [Completing a tutorial](#completing-a-tutorial)
+    - [Freecodecamp tips and strategies](#freecodecamp-tips-and-strategies)
+  - [Submitting a Freecodecamp assignment](#submitting-a-freecodecamp-assignment)
 
 # Freecodecamp
 Freecodecamp.org has a number of free coding tutorials we'll be using to practice our coding. This guide shows how to create an account, complete tutorials, and submit your progress to Canvas
@@ -27,6 +31,7 @@ Freecodecamp.org has a number of free coding tutorials we'll be using to practic
 **Your profile should look like this: https://freecodecamp.org/dougrosman. That is the link you will submit to Canvas so I can see your progress.**
 
 
+
 ## Completing a tutorial
 
 1. From the [Freecodecamp Learn page](https://www.freecodecamp.org/learn), click the tutorial you want to start with.
@@ -41,5 +46,16 @@ Freecodecamp.org has a number of free coding tutorials we'll be using to practic
 * Freecodecamp isn't perfect! Sometimes it has bugs. If you are pretty sure your code is correct, but Freecodecamp keeps saying there's an error, don't spend too long trying to fix it. Take a screenshot of your code and email it to me with a question, then move onto the next challenge.
 * If you're totally suck on a challenge, move onto the next one. Once you've attempted all the assigned tutorials, go back to the beginning and retry the ones you skipped; the answer might just come to you the second time!
 * If you're still stuck on some tutorials, take a break and come back later.
+
+## Submitting a Freecodecamp assignment
+After completing the assigned tutorials for a given week, submit your profile link to the correct Canvas assignment.
+
+You can find the link to your profile on the [Freecodecamp Home Page](https://www.freecodecamp.org/)
+![Freecodecamp profile link](images/fcc-profile.png)
+**Your profile should look like this: https://freecodecamp.org/dougrosman. That is the link you will submit to Canvas so I can see your progress.**
+
+Submit that link in Canvas
+![Freecodecamp submit link](images/fcc-submit.png)
+![Freecodecamp submit link](images/fcc-submit2.png)
 
 
