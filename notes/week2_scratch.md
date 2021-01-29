@@ -25,6 +25,11 @@
 1. Create a nested list
 1. Correctly indent the nested elements
 1. Fix all the errors in the validator
+1. [open time] Invent a food dish, write some HTML that includes the recipe and some corny backstory.
+
+### Homework
+1. Using HTML only, create a web page for a fake business that you make up! What does your business offer? What sections and links does it have? The goal of this assignment is to build a semantic website. Create meaningful sections, and structure your HTML with the appropriate elements.
+**Hints:** Look at regular websites with CSS turned off to see what type of content a website has, without being distracted by the styling.
 
 
 
