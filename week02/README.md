@@ -2,9 +2,6 @@
 ## HTML Basics + Troubleshooting
 
 ### Topics to cover
-1. GitHub Desktop
-    1. Cloning my repo
-    1. Copying my exercises into their folders
 1. What is HTML/HTML5?
 1. What is the DOM?
 1. Elements and tags
