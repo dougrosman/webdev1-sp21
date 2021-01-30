@@ -57,5 +57,42 @@ From https://1mb.club/
             * &lt;title&gt;
         * &lt;body&gt;
     1. Open Codepen.io
-    1. Open fresh pen called 02a-HTML Basics (S04-02a_HTML)
+    1. Open fresh Pen called 2.1-HTML Basics(S04-2.1_HTML)
+    1. Go over basic HTML elements/tags
+        1. headers:
+            1. &lt;h1&gt;
+            1. &lt;h2&gt;
+            1. &lt;h3&gt;
+            1. &lt;h4&gt;
+            1. &lt;h5&gt;
+            1. &lt;h6&gt;
+        1. paragraph: &lt;p&gt;
+        1. anchor (link): &lt;a&gt;
+        1. &lt;div&gt;
+        1. &lt;span&gt;
+        1. &lt;header&gt;
+        1. &lt;main&gt;
+        1. &lt;footer&gt;
+        1. &lt;section&gt;
+        1. Lists:
+            1. unordered list: &lt;ul&gt;
+            1. ordered list: &lt;ol&gt;
+            1. list item: &lt;li&gt;
+        1. &lt;img&gt;
+    1. HTML Attributes (things that go in the opening tab of an element, and are specific to that element)
+        1. href (e.g. &lt;a href="https://crouton.net"&gt;)
+        1. src (e.g. &lt;img src="https://picsum.photos/100&gt;)
+        1. target (e.g. (e.g. &lt;a href="https://crouton.net" target="_blank"&gt;))
+1. Go over good coding habits
+    1. Comments
+    1. Proper indentation:
+        1. **In class exercise** Complete the [Proper indentation exercise](indentation) by correctly indenting the elements in the code
+1. How to troubleshoot (do these steps in this order) More information in the [How to Troubleshoot Guide](../guides/troubleshooting)
+    1. Make sure your code is properly indented
+    1. Look through your code to spot any errors
+    1. Run your code through an HTML validator and correct any errors
+    1. If you're still having issues, try googling the problem you're having
+    1. If you're still having issues, reach out to a friend, a peer, or me with your issue. Use the [Troubleshooting Guide](../guides/troubleshooting) to make sure you're asking questions correctly.
+
 1. Download GitHub Desktop
+
