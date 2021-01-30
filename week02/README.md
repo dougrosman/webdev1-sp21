@@ -96,7 +96,7 @@ ___
 1. Go over good coding habits
     1. Comments
     1. Proper indentation:
-        1. **In class exercise** Complete the [Proper indentation exercise](indentation) by correctly indenting the elements in the code
+        1. **In-class exercise** Complete the [Proper indentation exercise](indentation) by correctly indenting the elements in the code
     ---
 
 1. How to troubleshoot (do these steps in this order) More information in the [How to Troubleshoot Guide](../guides/troubleshooting)
@@ -115,7 +115,7 @@ ___
     ---
     
 1. Making your first web page!
-    1. **In-Class Exercise:** Invent a recipe for a made-up dish. Create a web page for that recipe that includes the following:
+    1. **In-class Exercise:** Invent a recipe for a made-up dish. Create a web page for that recipe that includes the following:
         1. A title
         1. An image
         1. A corny backstory
