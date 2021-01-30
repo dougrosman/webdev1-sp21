@@ -37,3 +37,25 @@
 From https://1mb.club/
 * https://madeyoulook.lol/
 * https://crouton.net/
+
+
+## Agenda
+1. Hellos/Last week recap
+    1. Taking attendance after class based on Zoom numbers, tell students about this.
+    1. In order to be marked on time, you must be in the Zoom waiting room by the class start time (12:30);
+    1. If you miss over 30 minutes of class, you will be marked absent for the day.
+1. What is HTML?
+    1. Open a web page and view source (https://crouton.net)
+        * Command+U (Mac)
+        * CTRL+U (Windows)
+    1. The [DOM (Document Object Model)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+    ![DOM Diagram](https://simplesnippets.tech/wp-content/uploads/2018/10/what-is-document-object-model-in-JS-featured-image.jpg)
+    1. Required elements (click here to view a [basic HTML page](basic_html_document))
+        * &lt;DOCTYPE! html&gt;
+        * &lt;html&gt;
+        * &lt;head&gt;
+            * &lt;title&gt;
+        * &lt;body&gt;
+    1. Open Codepen.io
+    1. Open fresh pen called 02a-HTML Basics (S04-02a_HTML)
+1. Download GitHub Desktop
