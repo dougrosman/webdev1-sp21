@@ -41,6 +41,7 @@ From https://1mb.club/
 # Learning HTML
 
 <hr>
+
 ### Quick reference: In-class exercises
 1. [Indenting your code to make it more readable](indentation) [*[download the starter code](indentation.zip)*]
 2. [Fixing Code with an HTML Validator](html_validator) [*[download the starter code](html_validator.zip)*]
@@ -55,7 +56,7 @@ From https://1mb.club/
     
 1. What is HTML?
     1. Turn off CSS styling in Firefox (View --> Page Style --> No Style)
-    1. Open a web page and view source (https://crouton.net)
+    1. Open a web page and view source [crouton.net](https://crouton.net)
         * Command+U (Mac)
         * CTRL+U (Windows)
     1. The [DOM (Document Object Model)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
@@ -109,13 +110,14 @@ From https://1mb.club/
     1. If you're still having issues, try googling the problem you're having
     1. If you're still having issues, reach out to a friend, a peer, a tutor, or me with your issue. Use the [Troubleshooting Guide](../guides/troubleshooting) to make sure you're asking questions in a way that best helps others to help you!
     1. **In-class exercise:** [Fixing Code with an HTML Validator](html_validator) [*[download the starter code](html_validator.zip)*]
+    <hr>
 1. Semantic HTML and Accessibility
     1. Semantic HTML vs. Decorative HTML
     1. Making accessible web pages is incredibly important. Throughout the semester, we will discuss design approaches that work well for everyone.
     1. Using semantic HTML is incredibly important for making accessible web pages
     1. Screen readers
-        1. https://www.youtube.com/watch?v=dEbl5jvLKGQ
-    ---
+        1. [Watch: an example of a person using a screen reader](https://www.youtube.com/watch?v=dEbl5jvLKGQ)
+    <hr>
     
 1. Making your first web page!
     1. **In-class Exercise:** Invent a recipe for a made-up dish. Create a web page for that recipe that includes the following:
