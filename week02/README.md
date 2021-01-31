@@ -41,8 +41,8 @@ ___
 # Day 02: Learning HTML
 
 ## Quick reference: In-class exercises
-1. [Indenting your code to make it more readable](indentation)
-2. [Fixing Code with an HTML Validator](html_validator)
+1. [Indenting your code to make it more readable](indentation) *[[download the starter code](indentation.zip)]*
+2. [Fixing Code with an HTML Validator](html_validator) *[[download the starter code](html_validator.zip)]*
 
 ## Agenda
 1. Hellos/Last week recap
