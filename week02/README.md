@@ -105,7 +105,7 @@ ___
     1. Run your code through an HTML validator and correct any errors
     1. If you're still having issues, try googling the problem you're having
     1. If you're still having issues, reach out to a friend, a peer, a tutor, or me with your issue. Use the [Troubleshooting Guide](../guides/troubleshooting) to make sure you're asking questions in a way that best helps others to help you!
-    1. **In-class exercise:** [Fixing Code with an HTML Validator](html_validator))
+    1. **In-class exercise:** [Fixing Code with an HTML Validator](html_validator)
 1. Semantic HTML and Accessibility
     1. Semantic HTML vs. Decorative HTML
     1. Making accessible web pages is incredibly important. Throughout the semester, we will discuss design approaches that work well for everyone.
