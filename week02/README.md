@@ -52,7 +52,7 @@ ___
     ---
     
 1. What is HTML?
-    1. Turn off CSS styling (View --> Page Style --> No Style)
+    1. Turn off CSS styling in Firefox (View --> Page Style --> No Style)
     1. Open a web page and view source (https://crouton.net)
         * Command+U (Mac)
         * CTRL+U (Windows)
