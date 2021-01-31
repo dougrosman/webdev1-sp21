@@ -34,15 +34,17 @@
 From https://1mb.club/
 * https://madeyoulook.lol/
 * https://crouton.net/
-___
+<hr>
 <br>
 <br>
 
-# Day 02: Learning HTML
+# Learning HTML
 
-## Quick reference: In-class exercises
+<hr>
+### Quick reference: In-class exercises
 1. [Indenting your code to make it more readable](indentation) [*[download the starter code](indentation.zip)*]
 2. [Fixing Code with an HTML Validator](html_validator) [*[download the starter code](html_validator.zip)*]
+<hr>
 
 ## Agenda
 1. Hellos/Last week recap
@@ -93,8 +95,9 @@ ___
         1. src (e.g. &lt;img src="https://picsum.photos/100&gt;)
         1. alt (e.g e.g. &lt;img src="https://picsum.photos/100&gt; alt="A cloudy forest with, mountain in the background)
         1. target (e.g. (e.g. &lt;a href="https://crouton.net" target="_blank"&gt;))
+    <hr>
 1. Go over good coding habits
-    1. Comments
+    1. Commenting your code
     1. Proper indentation:
         1. **In-class exercise** Complete the [Proper indentation exercise](indentation) by correctly indenting the elements in the code [*[download the starter code](indentation.zip)*]
     ---
