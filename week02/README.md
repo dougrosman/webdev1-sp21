@@ -41,8 +41,8 @@ ___
 # Day 02: Learning HTML
 
 ## Quick reference: In-class exercises
-1. [Indenting your code to make it more readable](indentation) *[[download the starter code](indentation.zip)]*
-2. [Fixing Code with an HTML Validator](html_validator) *[[download the starter code](html_validator.zip)]*
+1. [Indenting your code to make it more readable](indentation) [*[download the starter code](indentation.zip)*]
+2. [Fixing Code with an HTML Validator](html_validator) [*[download the starter code](html_validator.zip)*]
 
 ## Agenda
 1. Hellos/Last week recap
@@ -96,7 +96,7 @@ ___
 1. Go over good coding habits
     1. Comments
     1. Proper indentation:
-        1. **In-class exercise** Complete the [Proper indentation exercise](indentation) by correctly indenting the elements in the code
+        1. **In-class exercise** Complete the [Proper indentation exercise](indentation) by correctly indenting the elements in the code [*[download the starter code](indentation.zip)*]
     ---
 
 1. How to troubleshoot (do these steps in this order) More information in the [How to Troubleshoot Guide](../guides/troubleshooting)
@@ -105,7 +105,7 @@ ___
     1. Run your code through an HTML validator and correct any errors
     1. If you're still having issues, try googling the problem you're having
     1. If you're still having issues, reach out to a friend, a peer, a tutor, or me with your issue. Use the [Troubleshooting Guide](../guides/troubleshooting) to make sure you're asking questions in a way that best helps others to help you!
-    1. **In-class exercise:** [Fixing Code with an HTML Validator](html_validator)
+    1. **In-class exercise:** [Fixing Code with an HTML Validator](html_validator) [*[download the starter code](html_validator.zip)*]
 1. Semantic HTML and Accessibility
     1. Semantic HTML vs. Decorative HTML
     1. Making accessible web pages is incredibly important. Throughout the semester, we will discuss design approaches that work well for everyone.
