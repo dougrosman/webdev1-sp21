@@ -128,7 +128,7 @@ From https://1mb.club/
         1. A list of instructions
 
         Make sure to use semantic HTML (meaning, you should use the elements that make the most sense for each section!). You should create the following page in a fresh Codepen called *HTML Recipe*
-    ---
+    <hr>
 1. Discuss homework and where to find resources on Canvas
     1. HTML Basics Assignment: Creating a web page for a made-up business
     1. [Troubleshooting Guide](../guides/troubleshooting)
