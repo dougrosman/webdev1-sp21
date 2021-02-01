@@ -101,11 +101,18 @@ From https://1mb.club/
         3. alt (e.g e.g. &lt;img src="https://picsum.photos/100&gt; alt="A cloudy forest with, mountain in the background)
         4. target (e.g. (e.g. &lt;a href="https://crouton.net" target="_blank"&gt;))
     <hr>
+4. Semantic HTML and Accessibility
+    1. Semantic HTML vs. Decorative HTML
+    2. Making accessible web pages is incredibly important. Throughout the semester, we will discuss design approaches that work well for everyone.
+    3. Using semantic HTML is incredibly important for making accessible web pages
+    4. Screen readers
+        1. [Watch: an example of a person using a screen reader](https://www.youtube.com/watch?v=dEbl5jvLKGQ)
+    <hr>
 2. Go over good coding habits
     1. Commenting your code
     2. Proper indentation:
         1. **In-class exercise** Complete the [Proper indentation exercise](indentation) by correctly indenting the elements in the code [*[download the starter code](indentation.zip)*]
-    ---
+    <hr>
 
 3. How to troubleshoot (do these steps in this order) More information in the [How to Troubleshoot Guide](../guides/troubleshooting)
     1. Make sure your code is properly indented
@@ -115,13 +122,7 @@ From https://1mb.club/
     5. If you're still having issues, reach out to a friend, a peer, a tutor, or me with your issue. Use the [Troubleshooting Guide](../guides/troubleshooting) to make sure you're asking questions in a way that best helps others to help you!
     6. **In-class exercise:** [Fixing Code with an HTML Validator](html_validator) [*[download the starter code](html_validator.zip)*]
     <hr>
-4. Semantic HTML and Accessibility
-    1. Semantic HTML vs. Decorative HTML
-    2. Making accessible web pages is incredibly important. Throughout the semester, we will discuss design approaches that work well for everyone.
-    3. Using semantic HTML is incredibly important for making accessible web pages
-    4. Screen readers
-        1. [Watch: an example of a person using a screen reader](https://www.youtube.com/watch?v=dEbl5jvLKGQ)
-    <hr>
+
     
 5. Making your first web page!
     1. **In-class Exercise:** Invent a recipe for a made-up dish. Create a web page for that recipe that includes the following:
