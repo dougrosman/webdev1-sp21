@@ -132,7 +132,7 @@ From https://1mb.club/
         4. An ingredients list
         5. A list of instructions
 
-        Make sure to use semantic HTML (meaning, you should use the elements that make the most sense for each section!). You should create the following page in a fresh Codepen called *HTML Recipe*
+        Make sure to use semantic HTML (meaning, you should use the elements that make the most sense for each section! (e.g. &lt;header&gt;, &lt;main&gt;, &lt;footer&gt;). You should create the following page in a fresh Codepen called *HTML Recipe*
     <hr>
 6. Discuss homework and where to find resources on Canvas
     1. HTML Basics Assignment: Creating a web page for a made-up business
