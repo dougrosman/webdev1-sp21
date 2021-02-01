@@ -126,7 +126,7 @@ From https://1mb.club/
     
 5. Making your first web page!
     1. **In-class Exercise:** Invent a recipe for a made-up dish. Create a web page for that recipe that includes the following:
-        1. A title
+        1. A recipe title (hint, I'm not referring to the &lt;title&gt; tag--you don't need one of those tags in Codepen)
         2. An image
         3. A corny backstory
         4. An ingredients list
