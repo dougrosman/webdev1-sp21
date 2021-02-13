@@ -1,11 +1,10 @@
 # GitHub
 
-## Setting up your repository to submitting your assignment to Canvas:
+## From setting up a repository to submitting your assignment to Canvas: a comprehensive guide
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/88QYmFPqAkA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This video covers all the steps you need to set up a website to submit your assignments to Canvas. If you watch the video on the YouTube website, you can use the timestamps to jump to the specific section you need. Here are those timestamps:
-1. 
 
 ### Before watching this video, make sure that you have created a GitHub account, and have downloaded, installed and set up VS Code with the necessary preferences and extensions
 
