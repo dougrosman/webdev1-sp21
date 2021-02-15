@@ -1,24 +1,29 @@
-* {margin: 0; padding: 0; box-sizing: border-box}
+/* * {margin: 0; padding: 0; box-sizing: border-box} */
 
 body {
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   background: pink;
 }
 
+header {
+  background: lightgreen;
+  padding: 1em 0;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
 h1 {
   text-align: center;
   background: violet;
   padding: .5em;
+  margin: 0;
 }
+
 h2 {
   text-align: center;
   background: coral;
   padding: .5em;
-}
-
-header {
-  background: lightgreen;
-  padding: 1em 0;
+  margin: 0;
 }
 
 main {
@@ -32,14 +37,15 @@ section {
   margin: 2em 0;
 }
 
-p {
-  padding: 1em;
-  font-size: 20px;
-}
-
 h3 {
   background: lightgoldenrodyellow;
   padding: 1em;
+  
+}
+
+p {
+  padding: 1em;
+  font-size: 20px;
 }
 
 footer {

@@ -87,6 +87,3 @@
    3. Read Assignment (Optional): [Rich User Experience, UX and Desktopization of War](http://contemporary-home-computing.org/RUE/) (2014) - Olia Lialina & Dragan Espenschied
       1. [Olia Lialina's website](http://art.teleportacia.org/) (Look at that absolute positioning!)
     
-
-
-
