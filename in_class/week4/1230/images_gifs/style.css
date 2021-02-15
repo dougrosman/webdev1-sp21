@@ -1,0 +1,25 @@
+body {
+  background-image: url('gifs/flyingbird.gif');
+  background-size: cover;
+}
+
+.container {
+  width: 400px;
+  height: 400px;
+  background: blue;
+  background-image: url('images/bird2.jpg');
+  background-size: contain;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+
+.flying-bird {
+  position: absolute;
+  top: 20%;
+  right: 20%;
+}
+

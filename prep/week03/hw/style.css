@@ -8,8 +8,8 @@ body {
 header {
   background: lightgreen;
   padding: 1em 0;
-  padding-top: 1em;
-  padding-bottom: 1em;
+  /* padding-top: 1em;
+  padding-bottom: 1em; */
 }
 
 h1 {
@@ -40,7 +40,6 @@ section {
 h3 {
   background: lightgoldenrodyellow;
   padding: 1em;
-  
 }
 
 p {

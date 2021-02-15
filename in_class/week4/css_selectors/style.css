@@ -1,29 +1,29 @@
-.page-title {
-  font-size: 60px;
-  color: darkblue;
-  font-family: Arial;
+.top-section {
+  background: lightseagreen;
 }
 
-.subtitle {
-  background: plum;
+.top-section h1 {
+  text-decoration: underline;
 }
 
-.text {
-  font-size: 12px;
+h1 {
+  color: orangered;
+}
+
+.regular-text {
+  font-size: 30px;
 }
 
 .cool-text {
-  font-family: 'Comic Sans MS';
-  font-size: 20px;
   color: magenta;
+  font-family: cursive;
 }
 
-.green-text {
-  color: green;
+.large-text {
+  font-size: 40px;
 }
 
-#whatever {
-  width: 200px;
-  height: 200px;
-  background: orange;
+#page-subtitle {
+  color: brown;
 }
+

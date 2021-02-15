@@ -1,0 +1,29 @@
+.page-title {
+  font-size: 60px;
+  color: darkblue;
+  font-family: Arial;
+}
+
+.subtitle {
+  background: plum;
+}
+
+.text {
+  font-size: 12px;
+}
+
+.cool-text {
+  font-family: 'Comic Sans MS';
+  font-size: 20px;
+  color: magenta;
+}
+
+.green-text {
+  color: green;
+}
+
+#whatever {
+  width: 200px;
+  height: 200px;
+  background: orange;
+}
