@@ -82,6 +82,7 @@
 
 #### 6. **Homework**
    1. Coding Assignment: Create your own "Geocities"/"Web 1.0" web page.
+      1. Find gifs on [gifcities.org](https://gifcities.org)
    2. Tutorial Assignment: FreeCodeCamp: Complete tutorials 1-22, 24-25 (Starting with 'Create Visual Balance Using the text-align Property' and ending with 'Center an Element Horizontally Using the margin Perperty') in the 'Applied Visual Design' Section. Note: Do NOT do Tutorial 23 (The one with floats)
    3. Read Assignment (Optional): [Rich User Experience, UX and Desktopization of War](http://contemporary-home-computing.org/RUE/) (2014) - Olia Lialina & Dragan Espenschied
       1. [Olia Lialina's website](http://art.teleportacia.org/) (Look at that absolute positioning!)
