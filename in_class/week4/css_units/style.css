@@ -1,0 +1,32 @@
+html {
+  font-size: 16px;
+}
+
+.px {
+  font-size: 20px;
+}
+
+.em {
+  font-size: 2em; /* avoid using em for fonts */
+  /* good for margins and padding */
+}
+
+.rem {
+  color: purple;
+  font-size: 1.25rem; /* good for fonts */
+}
+
+.container {
+  width: 50vw;
+}
+
+.percent {
+  background: lightgreen;
+  width: 50%;
+}
+
+.vw {
+  background: orange;
+  width: 50vw;
+}
+
