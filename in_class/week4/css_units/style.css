@@ -1,0 +1,45 @@
+h1 {
+  color: blue;
+}
+
+.px {
+  font-size: 24px; /* avoid px except for specific situations */
+}
+
+.container {
+  font-size: 30px;
+}
+
+.em {
+  background: lightblue;
+  font-size: 1.25em;
+  /* good for margins and padding */
+}
+
+.rem {
+  background: pink;
+  font-size: 1rem;
+  /* good for fonts */
+}
+
+.percent-container {
+  background: lightgray;
+}
+
+.percent {
+  background: lightgreen;
+  width: 50%;
+  height: 20%;
+}
+
+.vw {
+  background: lightsalmon;
+  width: 50vw;
+}
+
+.vh {
+  background: lightcyan;
+  font-size: 4vw;
+  border: 2px solid orange;
+}
+
