@@ -59,4 +59,28 @@ section {
   height: 20vw;
   border: 2px solid black;
   margin: 1em;
+  position: relative;
+  background: violet;
+  font-size: .5rem;
+}
+
+.close-button {
+  background: darkred;
+  color: white;
+  text-align: right;
+  position: absolute;
+  right: 0;
+  top: 0;
+  padding: .25rem;
+  z-index: 10
+}
+
+.box-content {
+  width: 98%;
+  height: 88%;
+  position: absolute;
+  left: 50%;
+  top: 54%;
+  transform: translate(-50%, -50%);
+  background: skyblue;
 }

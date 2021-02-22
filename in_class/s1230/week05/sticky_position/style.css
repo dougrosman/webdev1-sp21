@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background: red;
+  position: sticky;
+  top: 0;
+}
+main {
+  background: orange;
+  padding: 1em;
+}
+section {
+  background: yellow;
+  margin: 1em 0;
+}
+section h2 {
+  background: green;
+  position: sticky;
+  top: 2em;
+}
+section p {
+  font-size: 3rem;
+}
+footer {
+  background: blue;
+  color: white;
+}
