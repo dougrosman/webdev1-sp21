@@ -1,0 +1,26 @@
+body {
+  font-family: Arial;
+}
+
+#unique-box {
+  background: darkslategray;
+  color: white;
+  border: 10px dotted violet;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background: cornflowerblue;
+  margin: 1em;
+}
+
+.big {
+  width: 200px;
+  height: 200px;
+}
+
+.coral {
+  background: coral;
+}
+

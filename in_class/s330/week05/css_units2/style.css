@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 20px; /* this affects rem */
+}
+section {
+  margin: 2rem .5em;
+  padding: 1em;
+  border: 2px solid gray;
+}
+.vmin-demo {
+  background: lightskyblue;
+  font-size: 1.5vmin;
+}
+.section-vmin img {
+  width: 30vmin;
+}
+.section-em {
+  font-size: 40px;
+  /* this isn't changing anything */
+}
+.box-em {
+  width: max-content;
+  font-size: 6vmin;
+  padding: 2em;
+  background: gray;
+  margin: 1rem;
+  color: white;
+}

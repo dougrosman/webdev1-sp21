@@ -1,0 +1,60 @@
+* {margin: 0; padding: 0; box-sizing: border-box;}
+
+body {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+section {
+  background: #ddd;
+  margin: 5em 0;
+  padding: 1em;
+}
+.box {
+  background: cornflowerblue;
+  width: 20vmin;
+  height: 20vmin;
+  margin: 1em;
+  border: 3px solid orange;
+}
+.absolute {
+  background: purple;
+  position: absolute;
+  bottom: 5vmin;
+  left: 50vmin;
+  z-index: 999;
+}
+.fixed {
+  z-index: 101;
+  background: coral;
+  position: fixed;
+  bottom: 10vmin;
+  left: 40vmin;
+}
+.relative {
+  background: greenyellow;
+  position: relative;
+  top: 80vmin;
+  left: 20vmin;
+}
+.parent {
+  width: 60%;
+  height: 300px;
+  background: lightgreen;
+  margin: 1em auto;
+  position: relative;
+}
+.child {
+  background: salmon;
+  width: 50%;
+  height: 50%;
+  top: 10px;
+  left: 10px;
+  position: absolute;
+}
+.grandchild {
+  width: 50%;
+  height: 50%;
+  background: blue;
+  position: absolute;
+  left: 10px;
+  top: 10px;
+}
