@@ -1,0 +1,88 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial;
+}
+
+.brand {
+  font-size: 20px;
+  background: black;
+  color: white;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding: 0 .25em;
+}
+
+.x-brand {
+  font-size: 4rem;
+  color: greenyellow;
+}
+
+header {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+}
+
+.header-content {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(0, -50%);
+}
+
+.page-title {
+  font-size: 5rem;
+}
+
+.main-block {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+  margin-bottom: 50vh;
+}
+
+.main-block__content h3 {
+  font-size: 3rem;
+}
+
+.main-block__content p {
+  font-size: 1.5rem;
+}
+
+.main-block__content {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(0, -50%);
+}
+
+.x {
+  font-size: 4rem;
+  top: 1rem;
+  position: relative;
+  color: greenyellow;
+}
+
+.price {
+  text-align: center;
+  margin-top: -1em;
+}
+
+.price em {
+  font-size: .75rem;
+}
+
+.shirt {
+  width: 300px;
+}
+
+footer {
+  text-align: center;
+  padding: 2em;
+}

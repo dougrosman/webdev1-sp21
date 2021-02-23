@@ -4,29 +4,6 @@
   box-sizing: border-box;
 }
 
-header {
-  background-image: url(https://picsum.photos/1920/1080);
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-.title {
-  text-align: center;
-  padding: 3rem 0;
-}
-
-
-.intro_text {
-  margin: 0 auto;
-  margin-bottom: 20em;
-  width: 60ch;
-  background: white;
-}
-
-.main-section h3 {
-  font-size: 3rem;
-}
-
-.body-text {
-  margin-bottom: 3rem;
+.intro-blocks {
+  
 }
