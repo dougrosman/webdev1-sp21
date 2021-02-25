@@ -1,0 +1,72 @@
+* {margin: 0; padding: 0; box-sizing: border-box;}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: lightgoldenrodyellow;
+}
+
+section {
+  height: 100vh;
+}
+
+section h2 {
+  position: sticky;
+  top: 0;
+  padding: .25em;
+}
+
+.outer {
+  width: 80vmin;
+  height: 80vmin;
+  border: 3px solid black;
+  margin: 10vh auto;
+  position: relative;
+}
+
+.shape {
+  margin: .5em;
+  border: 3px solid black;
+  position: absolute;
+  width: 50%;
+  height: 50%;
+}
+
+.top {
+  top: 0;
+}
+
+.right {
+  right: 0;
+}
+
+.bottom {
+  bottom: 0;
+}
+
+.left {
+  left: 0;
+}
+
+.blue1 { border-color: rgb(20, 20, 110); }
+.blue2 { border-color: rgb(50, 50, 140); }
+.blue3 { border-color: rgb(80, 80, 170); }
+.blue4 { border-color: rgb(110, 110, 200); }
+.blue5 { border-color: rgb(140, 140, 230); }
+
+.red1 { border-color: rgb(110, 20, 20); }
+.red2 { border-color: rgb(140, 50, 50); }
+.red3 { border-color: rgb(170, 80, 80); }
+.red4 { border-color: rgb(200, 110, 110); }
+.red5 { border-color: rgb(230, 140, 140); }
+
+.green1 { border-color: rgb(20, 110, 20); }
+.green2 { border-color: rgb(50, 140, 50); }
+.green3 { border-color: rgb(80, 170, 80); }
+.green4 { border-color: rgb(110, 200, 110); }
+.green5 { border-color: rgb(140, 230, 140); }
+
+.purple-bg1 { background: rgb(110, 20, 110); border: unset; }
+.purple-bg2 { background: rgb(140, 50, 140); border: unset; }
+.purple-bg3 { background: rgb(170, 80, 170); border: unset; }
+.purple-bg4 { background: rgb(200, 110, 200); border: unset; }
+.purple-bg5 { background: rgb(230, 140, 230); border: unset; }
