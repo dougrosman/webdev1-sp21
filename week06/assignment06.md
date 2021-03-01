@@ -3,7 +3,7 @@
 ## Summary:
 Simulate a "smartphone" in your browser using CSS Flex.
 ![Smartphone Example 1](images/smartphone01.jpg)
-<video src="videos/smartphone.mp4">
+<video src="videos/smartphone.mp4" controls width="1280" autoplay loop>
 
 
 ## Background
