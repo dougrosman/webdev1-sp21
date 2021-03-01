@@ -41,7 +41,9 @@ Recalling Olia Lialina's essay [Rich User Experience, UX and Desktopization of W
 1. Inside your **assignments** folder in your webdev1 repo, create a folder called **smartphone**.
 2. Inside that folder, create your `index.html` and `style.css` files.
 3. Make sure your `style.css` file is linked to your `index.html` file in the `<head>` section.
+   
    ![File structure in VS Code](images/file_structure_smartphone.png)
+   
 4. Make sure all your image files are renamed to have no spaces and lowercase letters only
 
 ## How to submit:
