@@ -19,6 +19,7 @@
       1. Late policy reminder: Assignments more than a week old can still be turned in for up to 5 points.
    3. Ask questions
    4. Office hours this week (Thursday, 03/04, 5pm-7pm). This time slot is open to both sections, so you may see students in other sections, but we're all working on the same material!
+   5. Revisit the HTML Validator
 
 
 ### Part II: New CSS Concepts
