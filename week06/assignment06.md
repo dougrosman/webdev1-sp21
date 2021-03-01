@@ -40,7 +40,8 @@ Recalling Olia Lialina's essay [Rich User Experience, UX and Desktopization of W
 ## **Setup**
 1. Inside your **assignments** folder in your webdev1 repo, create a folder called **smartphone**.
 2. Inside that folder, create your `index.html` and `style.css` files.
-3. Make sure your `style.css` file is link to your `index.html` file in the `<head>` section.
+3. Make sure your `style.css` file is linked to your `index.html` file in the `<head>` section.
+   ![File structure in VS Code](images/file_structure_smartphone.png)
 4. Make sure all your image files are renamed to have no spaces and lowercase letters only
 
 ## How to submit:
@@ -66,7 +67,7 @@ Closing thoughts:
 
 ![Smartphone Example 2](images/smartphone02.jpg)
 
-Note: The above example image uses something called "pseudo elements", specifically the ::before pseudo element. This made it very easy to add the same "notification" accent in the corner of each app. If you're curious about using pseudo elements, check out this video: Before and After pseudo elements explained - part one: how they work (Links to an external site.)
+Note: The above example doesn't meet the minimum requirements for this assignment, it is just meant to show an example of how ot make "notification bubbles." The apps here use something called "pseudo elements", specifically the ::before pseudo element. This made it very easy to add the same "notification" accent in the corner of each app. If you're curious about using pseudo elements, check out this video: [Before and After pseudo elements explained - part one: how they work](https://www.youtube.com/watch?v=zGiirUiWslI)
 
 ![Smartphone Example 3](images/smartphone03.jpg)
 
