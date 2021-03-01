@@ -42,7 +42,6 @@ Recalling Olia Lialina's essay [Rich User Experience, UX and Desktopization of W
 2. Inside that folder, create your `index.html` and `style.css` files.
 3. Make sure your `style.css` file is link to your `index.html` file in the `<head>` section.
 4. Make sure all your image files are renamed to have no spaces and lowercase letters only
-5. 
 
 ## How to submit:
 
@@ -56,17 +55,14 @@ Recalling Olia Lialina's essay [Rich User Experience, UX and Desktopization of W
      1. `background-size: contain;` (your image will maintain its aspect ratio and fit inside its parent container
      2. `background-size: cover;` (your image will maintain its aspect ratio but will make sure it covers the entire parent container. Your image will be cropped automatically if you do this.
      3. `background-repeat: no-repeat;` put this if you don't want your images to repeat.
-  4. 
+  4. [cssgradient.io](https://cssgradient.io/): Generate CSS background gradients
     
 
 Closing thoughts:
 
 1. You don't have to make your "smartphone" look like the examples below. You can make them totally weird. Have fun with it. As long as you meet the requirements listed above, the rest is up to you.
-2. The last example below contains hints for how to structure your HTML. If you want to challenge yourself to do all this from scratch, don't look at the 4th example image ;)
-3. [cssgradient.io](https://cssgradient.io/): Generate background Gradients
+2. The last image example below contains hints for how to structure your HTML. If you want to challenge yourself to do all this from scratch, don't look at the 4th example image ;)
  
-
-
 
 ![Smartphone Example 2](images/smartphone02.jpg)
 
