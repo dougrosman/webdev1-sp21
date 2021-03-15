@@ -9,8 +9,8 @@
     img {max-width: 200px;}
 </style>
 
-# Webdev1 - Week 7 - 03/08/21
-## CSS Flexbox part 2, images, video, audio. Background Images, Google Fonts, Hover effects, box shadow, border vs. outline
+# Webdev1 - Week 8 - 03/08/21
+## Webdev 1 portfolio
 
 ## Agenda
 ### Part I: Getting Started
@@ -19,17 +19,14 @@
    2. Look over your comments/grades
       1. Late policy reminder: Assignments more than a week old can still be turned in for up to 5 points.
    3. Ask questions
-   4. Office hours this week (Thursday, 03/11, 5pm-6:30pm). This time slot is open to both sections, so you may see students in other sections, but we're all working on the same material!
-   5. Revisit the HTML Validator
-   6. Extra credit is due
+   4. Office hours this week (Friday, 03/19, 11am-12:30pm). This time slot is open to both sections.
+   5. Video going over smartphone homework assignment posted tonight
 
 
 ### Part II: Review
 #### 0. Review last week's concepts
-  1. Centering in CSS
-  2. CSS positioning
-  3. CSS box model
-  4. CSS Flexbox
+  1. Centering in CSS (`margin: 0 auto`)
+  2. CSS Flexbox
 
 ### Part III: New concepts
 #### 1. Setup
