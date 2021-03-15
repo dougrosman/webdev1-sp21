@@ -29,43 +29,19 @@
   2. CSS Flexbox
 
 ### Part III: New concepts
-#### 1. Setup
-   1. Open your webdev1 repo inside VS Code
-   2. Inside your in_class folder, create a folder called week07 with the following folder structure:
-   3. ![Folder structure](images/folder_structure.png)]
-   4. After setting up your folder and files in VS Code, [download these sample placeholder assets](doug_assets.zip) and drag and drop them into your own folders in VS Code
- 
-#### 2. CSS Flexbox Continued (child properties)
-*[A Complete Gudie to Flexbox (CSS Tricks)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)*
-   1. `flex: <grow> | <shrink> | <basis>`
+#### 1. Filepaths
+   1. Absolute paths
+   2. Relative paths
+   3. Linking local webpages to other webpages
 
-#### 3. Media
-   1. Images (`<img>`)
-      1. [picsum.photos](https://picsum.photos/): Fast and easy placeholder images!
-      2. Writing `alt text`
-      3. `object-fit: contain;`
-   2. Video (`<video>`)
-   3. Audio (`<audio>`)
-
-#### 5. background images
-   1. `background-repeat: no-repeat;`;
-   2. `background-size: cover;`;
-   3. `background-size: contain;`;
-
-#### 6. hover effects
-   1. `.your-element:hover {background: orange;}`
-
-#### 7. Box-shadow
-   1. `box-shadow: 5px 5px 20px 2px black`
-
-#### 8. Outline vs. border
-   1. `border: 2px solid green;` (border is part of the box model, and takes up space in the document flow)
-   2. `outline: 2px solid pink` (outline is not part of the box model, and doesn't take up space in the document flow. It is only visual)
-   3. `box-sizing: border-box;` (turning this on means that the border and padding on an element will be included in their total width, and not add extra with to the element)
-
-#### 9. Google Fonts
-   1. https://fonts.google.com/
+#### 2. WebdevI portfolio assignment
+   1. Work on it in class
+   2. Build HTML structure first, then focus on CSS styling.
+   3. Due next week before class.
+   4. Don't leave today without pushing a rough draft of your portfolio to GitHub
 
 ### Part IV: Homework
-   1. 6a: [Smartphone assignment](assignment06): Simulate a smartphone in your web page using Flexbox to align your items.
+   1. 7a: Webdev1 Portfolio
+   2. 7b: Freecodecamp tutorials (Applied Accessibility (all 22 tutorials))
+   3. 7c: Freecodecamp tutorials (Applied Visual Design (final 19 tutorials))
     
