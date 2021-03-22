@@ -1,9 +1,17 @@
+<style>
+    video, img {
+        max-width: 500px; 
+    }
+</style>
+
 **Due: March 29, 12:30pm**
 
 ## **Summary**
 Using CSS animations, create two animated pieces of content: a "loading bar" and a "waiting circle." Each animation should have its own page.
 
 For some inspiration, check out this subreddit: [r/loadingicon](https://www.reddit.com/r/loadingicon/). Note, most of these would be considered "waiting circles", since they loop infinitely. Also, some of these are pretty complex, and probably aren't done using CSS animations. I've included this page to demonstrate that a "waiting circle" or a "loading bar" can look like anything, really. They don't need a literal "bar" or "circle". They just need to communicate the passing of time, or the accumulation of progress.
+
+<video src="videos/loading-bar.mp4"></video>
 
 
 
