@@ -9,7 +9,7 @@
     img {max-width: 200px;}
 </style>
 
-# Webdev1 - Week 8 - 03/15/21
+# Webdev1 - Week 10 - 03/29/21
 ## Webdev 1 portfolio
 
 ## Agenda
@@ -19,7 +19,7 @@
    2. Look over your comments/grades
       1. Late policy reminder: Assignments more than a week old can still be turned in for up to 5 points.
    3. Ask questions
-   4. Office hours this week (Friday, 03/19, 11am-12:30pm). This time slot is open to both sections.
+   4. Office hours this week (Wednesday, 03/19, 11am-12:30pm). This time slot is open to both sections.
    5. Video going over smartphone homework assignment posted tonight
 
 
