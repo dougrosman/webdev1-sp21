@@ -9,10 +9,123 @@ body {
     background: #008484;
     color: white;
     font-family: 'Share Tech Mono', monospace;
+    
+}
+
+html:hover {
+    cursor: url("assets/images/cursor.png"), auto;
+}
+
+.icon-menu {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 150px;
+}
+
+@media only screen and (max-width: 940px) {
+    .icon-menu {
+        max-width: 100vw;
+        position: relative;
+        z-index: 10;
+        background: #008484;
+    }
 }
 
 .icon-menu a {
     color: white;
+    font-size: clamp(12px, 3vmin, 16px);
+    transition: opacity .5s;
+}
+
+.icon-menu a:hover, .main-button:hover {
+    opacity: .5;
 }
 
 
+.icon {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 1em;
+    /* background: orange; */
+}
+
+.icon img {
+    width: clamp(50px, 12vmin, 100px);
+}
+
+.main-wrapper {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100vw;
+    max-width: 700px;
+    /* background: purple;
+    padding: 1em; */
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+.video-wrapper {
+  position: relative;  
+}
+
+.windows-popup {
+    width: 100%;
+}
+
+.video-embed {
+    position: absolute;
+    left: 1%;
+    top: 20%;
+    width: 98%;
+    height: 73%;
+}
+
+.main-wrapper-text {
+    margin-top: 6vmin;
+    margin-bottom: 4vmin;
+    font-size: 4vmin;
+}
+
+footer {
+    background-image: url("assets/images/Toolbar_Desktop.png");
+    position: fixed;
+    background-size: cover;
+    bottom: 0;
+    width: 100vw;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.button-container {
+    margin: .25em 0;
+    margin-right: .25em;
+}
+
+button {
+    font-family: 'Share Tech Mono', monospace;
+    padding: .5em 2em;
+    background: #b4b4b4;
+    text-transform: uppercase;
+    border-right: 4px solid #222;
+    border-bottom: 4px solid #222;
+    border-top: 4px solid white;
+    border-left: 4px solid white;
+}
+
+button:active {
+    border-left: 4px solid #222;
+    border-top: 4px solid #222;
+    border-bottom: 4px solid white;
+    border-right: 4px solid white;
+}
+
+.main-button {
+    font-size: clamp(12px, 8vmin, 30px);
+    transition: opacity .5s;
+}
