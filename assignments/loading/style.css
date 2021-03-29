@@ -13,3 +13,9 @@ nav a {
     margin: 0 1em;
     color: orangered;
 }
+
+.home {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
