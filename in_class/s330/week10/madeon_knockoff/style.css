@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("https://picsum.photos/seed/201/1920/1080");
+    background-size: cover;
+    background-position: center;
+    min-width: 100vw;
+    min-height: 100vh;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+header {
+    text-align: center;
+    color: white;
+    margin: 4vmin 0;
+    font-size: 4rem;
+}
+
+.img-container {
+    display: flex;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.box {
+   width: 20vmin;
+   height: 20vmin;
+   background: #fa8390;
+   margin: 2em;
+}
