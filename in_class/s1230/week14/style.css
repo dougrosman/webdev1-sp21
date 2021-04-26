@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    max-width: 600px;
+    margin: 0 auto;
+    background: #ffc0cb;
+    padding: 2rem;
+}
+
+header {
+    margin-bottom: 1em;
+}
+
+.main-menu {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 1em 0;
+}
+
+.menu-title {
+    text-align: center;
+}
+
+.main-menu > li > a {
+    color: black;
+    text-decoration: none;
+}
+
+.list-of-things > li {
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+}
+
+.giraffe {
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+    display: block;
+}
+
+
+
+
+
+/* .my-img {
+    width: 100px;
+    position: absolute;
+    right: 10vw;
+    top: 0px;
+} */

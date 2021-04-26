@@ -1,0 +1,24 @@
+* {margin: 0; padding: 0; box-sizing: border-box;}
+
+.phone {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background: lightpink;
+    padding: 1em;
+    border-radius: 1em;
+}
+
+.row {
+    display: flex;
+}
+
+.app {
+    width: 6vmin;
+    height: 6vmin;
+    background: crimson;
+    border-radius: .5em;
+    margin: .25em;
+    border: 2px solid white;
+}
