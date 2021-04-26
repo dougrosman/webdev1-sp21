@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: pink;
+}
+
+.wrapper {
+    background: lightgray;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: .625rem;
+}
+
+a {
+    color: orangered;
+}
+
+a:visited {
+    color: teal;
+}
+
+nav > a {
+    text-decoration: none;
+}
+
+nav > a:hover {
+    text-decoration: underline;
+}
+
+nav li {
+    list-style-type: none;
+}
+
+.dolphin-img {
+    width: 100%;
+    max-width: 400px;
+    border: palegreen solid 3px;
+    display: block;
+    margin: 0 auto;
+}
+
+/* .px-img {
+    position: absolute;
+    left: 60vw;
+    top: 20px;
+} */
